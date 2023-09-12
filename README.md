@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rodrigo Morant
 ======================================================================================================================================
+![Rodrigo Morant](https://github.com/Rodrigo-Morant/Rodrigo-Morant/assets/144788949/a57bf529-91a4-4533-bc92-7fdaf972c8ad)
 
 Data scientist
 --------------
