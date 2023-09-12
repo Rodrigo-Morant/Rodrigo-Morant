@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data scientist
 --------------
 
-I'm a recent graduated in a Big Data Analytics Master. Even thought I started as a phisycist, I fell in love with data during my last year project at the university. Right now I'm trying to improve my skills and never stop learning.
+I'm a recent graduate of the Big Data Analytics Master program. Even though I started as a phisycist, I fell in love with data during my last year project at the university. Right now, I'm trying to improve my skills and never stop learning.
 
 * 🌍  I'm based in Valencia, Spain.
 * ✉️  You can contact me at [morantnrodrigo@gmail.com](mailto:morantnrodrigo@gmail.com)
 * 🧠  I'm learning Advanced SQL and Django.
 * 🤝  I'm open to collaborating on Almost any ML Python project
-* ⚡  I need a library in my house, otherwise the books are going to end me.
+* ⚡  I need a library in my house, otherwise books are going to end me.
 
 <a href="https://www.github.com/Rodrigo-Morant" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rodrigo-Morant?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
