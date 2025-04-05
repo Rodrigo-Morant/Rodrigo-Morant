@@ -5,12 +5,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data scientist
 --------------
 
-I'm a recent graduate of the Big Data Analytics Master program. Even though I started as a phisycist, I fell in love with data during my last year project at the university. Right now, I'm trying to improve my skills and never stop learning.
+👋 Hi there! I'm an AI engineer with a background in physics and a passion for solving complex problems through data and machine learning. I hold a Master's degree in Big Data Analytics, and my journey into AI began during my physics thesis, where I discovered the power of data-driven science.
+
+🧠 Since then, I've worked on a range of projects—from optimizing nuclear fusion systems and ship power plants to detecting structural anomalies in offshore wind turbines and applying deep learning to satellite imagery. My toolbox includes Deep Learning, Reinforcement Learning, Surrogate Modeling, and Simulation techniques, with hands-on experience using PyTorch, TensorFlow, OpenMC, Geant4, and FEM frameworks like Kratos and FEniCS.
+
+🚀 I'm always exploring new ways to grow, collaborate, and build smarter, more efficient systems. Let’s connect and build something awesome!
 
 * 🌍  I'm based in Valencia, Spain.
 * ✉️  You can contact me at [morantnrodrigo@gmail.com](mailto:morantnrodrigo@gmail.com)
-* 🧠  I'm learning Advanced SQL and Django.
-* 🤝  I'm open to collaborating on Almost any ML Python project
+* 🧠  Currently working in a Medical Imaging project using diffusion models.
+* 🤝  I'm open to collaborating in almost any ML and DL Python project
 * ⚡  I need a library in my house, otherwise books are going to end me.
 
 <a href="https://www.github.com/Rodrigo-Morant" target="_blank" rel="noreferrer"><img
